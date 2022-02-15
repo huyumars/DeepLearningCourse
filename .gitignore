@@ -3,3 +3,17 @@ venv
 .hidden
 .idea
 .DS_store
+
+
+# ignore data
+*.h5
+*.gz
+*.mat
+*/W2A2/dataset
+*/W3A1/model_data
+*/W3A2/data
+*/W4A1/datasets
+*/W4A1/keras-facenet-h5*
+*/W4A2/output
+*/W4A2/pretrained-model
+
